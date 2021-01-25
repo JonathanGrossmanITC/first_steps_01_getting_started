@@ -61,22 +61,22 @@ As the program progresses, you will focus in on specific parts of these topics a
   
 ## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
   - VS Code  
-    -- [Download it](https://code.visualstudio.com/) 
-    -- [Practice using it](https://code.visualstudio.com/docs/introvideos/basics)
+    -- [Download it](https://code.visualstudio.com/)   
+    -- [Practice using it](https://code.visualstudio.com/docs/introvideos/basics)  
       --- Open a project folder in VS Code  
       --- Create a new file in your root folder, subfolder in your root folder, and file in your subfolder  
       --- Practice renaming files and dragging from folder to folder  
       --- Explore the split screen, terminal, and settings  
-      --- Search files
-      --- Open HTML file in browser
+      --- Search files  
+      --- Open HTML file in browser  
   - VS Code Extensions  
-    -- Can install extensions to enhance your coding experience
-    -- One example: Prettier Code Formatter
+    -- Can install extensions to enhance your coding experience  
+    -- One example: Prettier Code Formatter  
       --- Install it  
-      --- In VS Code settings, search for "format" and choose "format on save"
-  - Folder Structures and File Paths
+      --- In VS Code settings, search for "format" and choose "format on save"  
+  - Folder Structures and File Paths  
     -- Example of HTML, CSS, JS [folder structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)  
-    -- [File paths](https://www.w3schools.com/html/html_filepaths.asp) 
+    -- [File paths](https://www.w3schools.com/html/html_filepaths.asp)   
 
 ## [Intro to HTML](#intro-to-html)   
   - HTML is a document  
