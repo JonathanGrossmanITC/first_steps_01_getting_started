@@ -5,8 +5,8 @@ Welcome to the first lesson! In this lesson, you are going to focus on getting s
 In this lesson, to get you started, you will learn:
 
 - Hour 1: [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)    
-- Hour 2: Code Editors and Project Folder Structure   
-- Hour 3: Intro to HTML  
+- Hour 2: [Code Editors and Project Folder Structure ](#code-editors-and-project-folder-structure))  
+- Hour 3: [Intro to HTML](#intro-to-html)  
 
 Below is an outline of the topics you learn about in the live session. After the session, you can use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap or learning path for gaining repitition with the material that you learn in the live session. 
 
@@ -45,7 +45,7 @@ Also included in this repository is some of the code that you see in the live se
     -- JSON  
     -- You will work with these in this program
   
-## Hour 2: Code Editors and Project Folder Structure  
+## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
   - VS Code  
     -- [Download it](https://code.visualstudio.com/)  
     -- Practice opening a project folder in VS Code  
@@ -63,7 +63,7 @@ Also included in this repository is some of the code that you see in the live se
     -- Example of HTML, CSS, JS [folder structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)  
     -- [File paths](https://www.w3schools.com/html/html_filepaths.asp) 
 
-## Hour 3: Intro to HTML  
+## [Intro to HTML](#intro-to-html)   
   - HTML is a document  
     -- Look at the [inspector](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) in your web browser 
     -- What do you see in the elements tab?
