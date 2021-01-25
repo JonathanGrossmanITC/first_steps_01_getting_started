@@ -5,7 +5,7 @@ Welcome to the first lesson! In this lesson, you are going to focus on getting s
 In this lesson, to get you started, you will learn:
 
 - Hour 1: [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)    
-- Hour 2: [Code Editors and Project Folder Structure ](#code-editors-and-project-folder-structure))  
+- Hour 2: [Code Editors and Project Folder Structure ](#code-editors-and-project-folder-structure)   
 - Hour 3: [Intro to HTML](#intro-to-html)  
 
 Below is an outline of the topics you learn about in the live session. After the session, you can use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap or learning path for gaining repitition with the material that you learn in the live session. 
@@ -14,24 +14,24 @@ Also included in this repository is some of the code that you see in the live se
 
 ## [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)  
   
-  ### Course Intro (see course info repo)
+### Course Intro (see course info repo)
+
+In the [Google Classroom](https://classroom.google.com/u/1/w/MjU0NjEyNjE0MDcz/t/all), find the post containing the link to the course information. Please review the course information. It contains the schedule, syllabus, and other important details.
   
-  In the Google Classroom, you should find a link to the course information. Please review it carefully for information about this First Steps Program.
-  
-  ### How the Web Works
+### How the Web Works
   
   - Browser  
     -- [Domain name](https://en.wikipedia.org/wiki/Domain_name)  
     -- [Hosting Provider IP Address](https://en.wikipedia.org/wiki/IP_address) 
     -- [DNS Server](https://en.wikipedia.org/wiki/Domain_Name_System)  
     -- [Hosting provider server](https://en.wikipedia.org/wiki/Web_hosting_service)  
-    -- Files displayed by browser  
-    -- HTML, CSS, JavaScript  
+    -- Files containing source code instruct the browser on how to display the information   
+    -- Source code for browsers is typically HTML, CSS, JavaScript  
     -- You will learn HTML, CSS, and JavaScript in this program  
   - Server  
-    -- Runs on a machine (it listens for incoming requests)  
+    -- Runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests  
     -- Communicates with browsers, other servers, and databases  
-    -- Has routes that receive requests and send responses  
+    -- Has [routes that receive requests and send responses](https://expressjs.com/en/starter/basic-routing.html)  
     -- A route is like a server address (is not the same as a domain name or url)  
     -- Browser sends request to server (or one server sends request to another server)  
     -- Server responds with a response  
