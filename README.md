@@ -12,7 +12,7 @@ Below is an outline of the topics you learn about in the live session. After the
 
 Also included in this repository is some of the code that you see in the live session. After class, you can review the code, modify it for your own projects, and save it as a template for use later.
 
-## Hour 1: [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)  
+## [Hour 1: Course Intro and How the Web Works](#course-intro-and-how-the-web-works)  
   
   ### Course Intro (see course info repo)
   
