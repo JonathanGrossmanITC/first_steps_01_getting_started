@@ -1,10 +1,10 @@
 # Getting Started  
 
-Welcome to the first lesson! In this lesson, you are going to focus on getting started as a developer. Being a developer requires more than just writing code. You'll need to learn how the web works, where to write your code, where to find answers, and so much more.
+Welcome to the first lesson! In this lesson, you are going to focus on getting started as a developer. Being a developer requires more than just writing code. You'll need to learn how the web works, where to write your code, how to organize your files, where to find answers, and so much more.
 
 In this lesson, to get you started, you will learn:
 
-- Hour 1: Course Intro and How the Web Works  
+- Hour 1: [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)    
 - Hour 2: Code Editors and Project Folder Structure   
 - Hour 3: Intro to HTML  
 
@@ -12,7 +12,7 @@ Below is an outline of the topics you learn about in the live session. After the
 
 Also included in this repository is some of the code that you see in the live session. After class, you can review the code, modify it for your own projects, and save it as a template for use later.
 
-## Hour 1: Course Intro and How the Web Works  
+## Hour 1: [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)  
   
   ### Course Intro (see course info repo)
   
