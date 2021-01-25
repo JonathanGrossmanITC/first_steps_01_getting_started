@@ -19,41 +19,56 @@ Also included in this repository is some of the code that you see in the live se
 In the [Google Classroom](https://classroom.google.com/u/1/w/MjU0NjEyNjE0MDcz/t/all), find the post containing the link to the course information. Please review the course information. It contains the schedule, syllabus, and other important details.
   
 ### How the Web Works
+
+The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to get you exposure to the topics in how the web works. 
+
+As the program progresses, you will focus in on specific parts of these topics and gain repetition with them. Only then will things start to come together in your mind. 
   
   - Browser  
     -- [Domain name](https://en.wikipedia.org/wiki/Domain_name)  
-    -- [Hosting Provider IP Address](https://en.wikipedia.org/wiki/IP_address) 
+    -- [Hosting Provider IP Address](https://en.wikipedia.org/wiki/IP_address)   
     -- [DNS Server](https://en.wikipedia.org/wiki/Domain_Name_System)  
     -- [Hosting provider server](https://en.wikipedia.org/wiki/Web_hosting_service)  
-    -- Files containing source code instruct the browser on how to display the information   
+    -- Files containing source code instruct the browser on how to display the information     
     -- Source code for browsers is typically HTML, CSS, JavaScript  
     -- You will learn HTML, CSS, and JavaScript in this program  
   - Server  
-    -- Runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests  
-    -- Communicates with browsers, other servers, and databases  
+    -- Software that runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests   
+    -- [Express.js](https://expressjs.com/en/starter/hello-world.html) is an example of a JavaScript-based server framework  
+    -- A server communicates with browsers, other servers, and databases  
     -- Has [routes that receive requests and send responses](https://expressjs.com/en/starter/basic-routing.html)  
     -- A route is like a server address (is not the same as a domain name or url)  
-    -- Browser sends request to server (or one server sends request to another server)  
+    -- Browser [sends request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to server (or one server sends request to another server)  
     -- Server responds with a response  
+    -- Browser [receives response](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#checking_that_the_fetch_was_successful)  
     -- Server can create, update, read, and delete data from databases  
     -- Servers are written in many languages (two common ones are Node.js and Python)  
     -- In the ITC Fullstsack bootcamp, you build your own servers and communicate with third-party servers  
     -- In this program, you will interact with third-party servers when learning about asynchronous code  
+  - Database  
+    -- A database stores electronic information  
+    -- Many [types of databases](https://www.guru99.com/introduction-to-database-sql.html) exist  
+    -- Databases communicated with servers  
+    -- Then servers send the data to browsers or servers  
+    -- A common sequence: Browser sends a request to the server, which triggers the server to request data from the database; upon receiving the data, the server responds to the browser's request with the data  
+    -- In the ITC Fullstsack bootcamp, you work with relational databases (SQL) and NoSQL (MongoDB)  
+    -- In this program, you will not work with databases directly  
   - HTTP  
-    -- Requests  
-    -- Responses  
-    -- JSON  
-    -- You will work with these in this program
+    -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp)  
+    -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)  
+    -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp)  
+    -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program
   
 ## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
   - VS Code  
-    -- [Download it](https://code.visualstudio.com/)  
-    -- Practice opening a project folder in VS Code  
-    -- Practice creating a new file in your root folder, subfolder in your root folder, and file in your subfolder  
-    -- Practice renaming files and dragging from folder to folder  
-    -- Explore the split screen, terminal, and settings  
-    -- Search files
-    -- Open HTML file in browser
+    -- [Download it](https://code.visualstudio.com/) 
+    -- [Practice using it](https://code.visualstudio.com/docs/introvideos/basics)
+      --- Open a project folder in VS Code  
+      --- Create a new file in your root folder, subfolder in your root folder, and file in your subfolder  
+      --- Practice renaming files and dragging from folder to folder  
+      --- Explore the split screen, terminal, and settings  
+      --- Search files
+      --- Open HTML file in browser
   - VS Code Extensions  
     -- Can install extensions to enhance your coding experience
     -- One example: Prettier Code Formatter
