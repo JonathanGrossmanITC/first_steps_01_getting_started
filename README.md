@@ -1,14 +1,14 @@
 # Getting Started  
 
-Welcome to the first lesson! In this lesson, you are going to focus on getting started as a developer. Being a developer requires more than just writing code. You'll need to learn how the web works, where to write your code, how to organize your files, where to find answers, and so much more.
+Welcome to the first lesson! In this lesson, you focus on getting started as a developer. Being a developer requires more than just writing code. You need to learn how the web works, where to write your code, how to organize your files, where to find answers, and so much more.
 
-In this lesson, to get you started, you will learn:
+In this lesson, you learn:
 
 - Hour 1: [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)    
 - Hour 2: [Code Editors and Project Folder Structure ](#code-editors-and-project-folder-structure)   
 - Hour 3: [Intro to HTML](#intro-to-html)  
 
-Below is an outline of the topics you learn about in the live session. After the session, you can use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap or learning path for gaining repitition with the material that you learn in the live session. 
+The topics below is an outline of what you learn in the live session. After the live session, use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap or learning path for gaining repetition with the material that you learn in the live session. 
 
 Also included in this repository is some of the code that you see in the live session. After class, you can review the code, modify it for your own projects, and save it as a template for use later.
 
@@ -16,21 +16,25 @@ Also included in this repository is some of the code that you see in the live se
   
 ### Course Intro (see course info repo)
 
-In the [Google Classroom](https://classroom.google.com/u/1/w/MjU0NjEyNjE0MDcz/t/all), find the post containing the link to the course information. Please review the course information. It contains the schedule, syllabus, and other important details.
+In the Google Classroom, find the post containing the link to the course information. Please review the course information. It contains the schedule, syllabus, and other important details.
   
 ### How the Web Works
 
-The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to get you exposure to the topics in how the web works. 
+The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to get you exposure to the topics on how the web works. 
 
 As the program progresses, you will focus in on specific parts of these topics and gain repetition with them. Only then will things start to come together in your mind. 
   
   - Browser  
-    -- [Domain name](https://en.wikipedia.org/wiki/Domain_name)  
-    -- [Hosting Provider IP Address](https://en.wikipedia.org/wiki/IP_address)   
-    -- [DNS Server](https://en.wikipedia.org/wiki/Domain_Name_System)  
-    -- [Hosting provider server](https://en.wikipedia.org/wiki/Web_hosting_service)  
-    -- Files containing source code instruct the browser on how to display the information     
-    -- Source code for browsers is typically HTML, CSS, JavaScript  
+    -- Based on a domain name, displays information on a screen for easy viewing
+    -- Chrome, Firefox, and Safari are examples of browsers
+    -- [Domain name](https://en.wikipedia.org/wiki/Domain_name) is alphanumeric and goes in browser's URL  
+    -- [IP Address](https://en.wikipedia.org/wiki/IP_address) corresponding to domain name is retrieved by browser from DNS Server   
+    -- [DNS Server](https://en.wikipedia.org/wiki/Domain_Name_System) links domain name to IP Address from browser  
+    -- Browser uses IP Address for domain to request files from hosting provider
+    -- [Hosting provider server](https://en.wikipedia.org/wiki/Web_hosting_service) provides browser with source code for IP Address  
+    -- Source code instructs the browser on how to display the information     
+    -- Source code for browsers is typically HTML, CSS, JavaScript
+    -- Look at the inspector in your browser to explore behind the scenes
     -- You will learn HTML, CSS, and JavaScript in this program  
   - Server  
     -- Software that runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests   
@@ -39,39 +43,41 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- Has [routes that receive requests and send responses](https://expressjs.com/en/starter/basic-routing.html)  
     -- A route is like a server address (is not the same as a domain name or url)  
     -- Browser [sends request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to server (or one server sends request to another server)  
-    -- Server responds with a response  
+    -- Server route responds with a response  
+    -- A route usually has some functionality associated with it in addition to sending a response, like calling a database and processing data
     -- Browser [receives response](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#checking_that_the_fetch_was_successful)  
-    -- Server can create, update, read, and delete data from databases  
+    -- Server can also create, update, read, and delete data from databases  
     -- Servers are written in many languages (two common ones are Node.js and Python)  
     -- In the ITC Fullstsack bootcamp, you build your own servers and communicate with third-party servers  
     -- In this program, you will interact with third-party servers when learning about asynchronous code  
   - Database  
-    -- A database stores electronic information  
+    -- A database stores electronic information
+    -- Databases live on a machine  
     -- Many [types of databases](https://www.guru99.com/introduction-to-database-sql.html) exist  
-    -- Databases communicated with servers  
+    -- Databases communicate with servers  
     -- Then servers send the data to browsers or servers  
-    -- A common sequence: Browser sends a request to the server, which triggers the server to request data from the database; upon receiving the data, the server responds to the browser's request with the data  
+    -- A common sequence: Browser sends a request to the server, which triggers the server to request data from the database; upon receiving the data from the database, the server responds to the browser's request with the data   
     -- In the ITC Fullstsack bootcamp, you work with relational databases (SQL) and NoSQL (MongoDB)  
     -- In this program, you will not work with databases directly  
   - HTTP  
-    -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp)  
-    -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)  
-    -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp)  
+    -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp) distinguish between they type of request you are sending  
+    -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) help you know the status of a request  
+    -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp) is the format you use to send and receive data via HTTP  
     -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program
   
 ## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
-  - VS Code  
+  - Visual Studio Code (VS Code)  
     -- [Download it](https://code.visualstudio.com/)   
     -- [Practice using it](https://code.visualstudio.com/docs/introvideos/basics)  
     -- Open a project folder in VS Code  
     -- Create a new file in your root folder, subfolder in your root folder, and file in your subfolder  
     -- Practice renaming files and dragging from folder to folder  
     -- Explore the split screen, terminal, and settings  
-    -- Search files  
+    -- Search for files  
     -- Open HTML file in browser  
   - VS Code Extensions  
-    -- Can install extensions to enhance your coding experience  
-    -- One example: Prettier Code Formatter  
+    -- You can install extensions to enhance your coding experience  
+    -- One example: Prettier Code Formatter auto formats your code so that it's organized and easy to read 
     -- Install it  
     -- In VS Code settings, search for "format" and choose "format on save"  
   - Folder Structures and File Paths  
@@ -80,22 +86,25 @@ As the program progresses, you will focus in on specific parts of these topics a
 
 ## [Intro to HTML](#intro-to-html)   
   - HTML is a document  
-    -- Look at the [inspector](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) in your web browser 
-    -- What do you see in the elements tab?
-    -- Do you see HTML?
-    -- What happens if you change the text inside an HTML tag?
-    -- Can you find another tab in the inspector where the source code files are accessible?
-    -- Explore what else you see in the inspector
-  - HTML Tags Examples
-    -- Look at [W3 Schools HTML Introduction](https://www.w3schools.com/html/html_intro.asp) for an example of how HTML page is organized
+    -- Look at the [inspector](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) in your web browser   
+    -- What do you see in the elements tab?  
+    -- Do you see HTML?  
+    -- What happens if you change the text inside an HTML tag?  
+    -- Can you find another tab in the inspector where the source code files are accessible?  
+    -- Explore what else you see in the inspector  
+  - HTML Tags Examples  
+    -- Look at [W3 Schools HTML Introduction](https://www.w3schools.com/html/html_intro.asp) for an example of how an HTML page is organized  
     -- Learn about [HTML elements generally](https://www.w3schools.com/html/html_elements.asp)  
     -- Explore [basic element types](https://www.w3schools.com/html/html_basic.asp)  
-    -- Here is a list of [HTML tags](https://www.w3schools.com/tags/default.asp)
-  - HTML is used in combination with CSS for style
-    -- Import stylesheets for CSS in the [HTML head tag](https://www.w3schools.com/html/html_head.asp)
-  - HTML is used in combination with JavaScript for functionality
-    -- Import scripts into your HTML using the [script tag](https://www.w3schools.com/html/html_scripts.asp) inside the HTML body at the bottom 
+    -- Here is a list of [HTML tags](https://www.w3schools.com/tags/default.asp)  
+  - HTML is used in combination with CSS for style  
+    -- Import stylesheets for CSS in the [HTML head tag](https://www.w3schools.com/html/html_head.asp)  
+  - HTML is used in combination with JavaScript for functionality  
+    -- Import scripts into your HTML using the [script tag](https://www.w3schools.com/html/html_scripts.asp) inside the HTML body at the bottom   
 
 
 Self-study:  
   
+Your assignment is to create a project folder in VS Code for your developer portfolio with an index.html file. After you create a project folder and set it up in VS Code, use [W3 Schools Examples](https://www.w3schools.com/html/html_examples.asp) to create your HTML file. Add a title and subtitle using the [headings tags](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_headings).  
+
+Also, take this [HTML quiz](https://www.w3schools.com/html/html_quiz.asp). We haven't covered most of the material, but that's okay. You can practice looking up answers by Google searchng and also learn by looking at the answers to the quiz when you're done.  
