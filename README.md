@@ -102,9 +102,3 @@ As the program progresses, you will focus in on specific parts of these topics a
   - HTML is used in combination with JavaScript for functionality  
     -- Import scripts into your HTML using the [script tag](https://www.w3schools.com/html/html_scripts.asp) inside the HTML body at the bottom   
 
-
-Self-study:  
-  
-Your assignment is to create a project folder in VS Code for your developer portfolio. The project folder should have inside it an `index.html` file. After you create a project folder and set it up in VS Code, use [W3 Schools Examples](https://www.w3schools.com/html/html_examples.asp) to create your HTML file. Add a title and subtitle using the [headings tags](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_headings).  
-
-Also, take this [HTML quiz](https://www.w3schools.com/html/html_quiz.asp). We haven't covered most of the material, but that's okay. You can practice looking up answers by Google searchng and also learn by looking at the answers to the quiz when you're done.  
