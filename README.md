@@ -20,7 +20,7 @@ In the Google Classroom, find the post containing the link to the course informa
 
 The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to expose you to the topics on how the web works. 
 
-As the program progresses, you will focus in on specific parts of these topics and gain repetition with them.  
+As the program progresses, you will focus on specific parts of these topics and gain repetition with them.  
   
   - Browser  
     -- Based on a domain name, displays information on a screen for easy viewing  
@@ -33,7 +33,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- Source code instructs the browser on how to display the information     
     -- Source code for browsers is typically HTML, CSS, JavaScript  
     -- Look at the inspector in your browser to explore behind the scenes  
-    -- In the ITC Fullstsack bootcamp, you learn advanced HTML, CSS, and JavaScript   
+    -- In the ITC Fullstack bootcamp, you learn advanced HTML, CSS, and JavaScript   
     -- In this program, you learn the basics of HTML, CSS, and JavaScript   
   - Server  
     -- Software that runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests   
@@ -47,7 +47,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- Browser [receives response](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#checking_that_the_fetch_was_successful) and displays it to the user  
     -- In addition to communicating with browsers, server can also create, update, read, and delete data from databases  
     -- Servers are written in many languages (two common ones are Node.js and Python)  
-    -- In the ITC Fullstsack bootcamp, you build your own servers and communicate with third-party servers  
+    -- In the ITC Fullstack bootcamp, you build your own servers and communicate with third-party servers  
     -- In this program, you will interact with third-party servers when learning about asynchronous code  
   - Database  
     -- A database stores electronic information  
@@ -56,7 +56,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- Databases communicate with servers  
     -- Then servers send the data to browsers or servers  
     -- A common sequence: Browser sends a request to the server, which triggers the server to request data from the database; upon receiving the data from the database, the server responds to the browser's request with the data   
-    -- In the ITC Fullstsack bootcamp, you work with relational databases (SQL) and NoSQL (MongoDB)  
+    -- In the ITC Fullstack bootcamp, you work with relational databases (SQL) and NoSQL (MongoDB)  
     -- In this program, you will not work with databases directly  
   - HTTP  
     -- A protocol for sending and receiving messages over the web  
