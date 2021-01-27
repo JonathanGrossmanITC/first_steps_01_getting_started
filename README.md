@@ -8,9 +8,7 @@ In this lesson, you learn:
 - Hour 2: [Code Editors and Project Folder Structure ](#code-editors-and-project-folder-structure)   
 - Hour 3: [Intro to HTML](#intro-to-html)  
 
-The topics below is an outline of what you learn in the live session. After the live session, use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap or learning path for gaining repetition with the material that you learn in the live session. 
-
-Also included in this repository is some of the code that you see in the live session. After class, you can review the code, modify it for your own projects, and save it as a template for use later.
+The topics below outline what you learn in the live session. After the live session, use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap for gaining repetition with the material that you learn in the live session. 
 
 ## [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)  
   
@@ -20,9 +18,9 @@ In the Google Classroom, find the post containing the link to the course informa
   
 ### How the Web Works
 
-The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to get you exposure to the topics on how the web works. 
+The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to expose you to the topics on how the web works. 
 
-As the program progresses, you will focus in on specific parts of these topics and gain repetition with them. Only then will things start to come together in your mind. 
+As the program progresses, you will focus in on specific parts of these topics and gain repetition with them.  
   
   - Browser  
     -- Based on a domain name, displays information on a screen for easy viewing
@@ -35,18 +33,19 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- Source code instructs the browser on how to display the information     
     -- Source code for browsers is typically HTML, CSS, JavaScript
     -- Look at the inspector in your browser to explore behind the scenes
-    -- You will learn HTML, CSS, and JavaScript in this program  
+    -- In the ITC Fullstsack bootcamp, you learn advanced HTML, CSS, and JavaScript 
+    -- In this program, you learn the basics of HTML, CSS, and JavaScript 
   - Server  
     -- Software that runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests   
     -- [Express.js](https://expressjs.com/en/starter/hello-world.html) is an example of a JavaScript-based server framework  
     -- A server communicates with browsers, other servers, and databases  
     -- Has [routes that receive requests and send responses](https://expressjs.com/en/starter/basic-routing.html)  
     -- A route is like a server address (is not the same as a domain name or url)  
-    -- Browser [sends request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to server (or one server sends request to another server)  
+    -- Browser [sends request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to server route (or one server sends request to another server)  
     -- Server route responds with a response  
     -- A route usually has some functionality associated with it in addition to sending a response, like calling a database and processing data
-    -- Browser [receives response](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#checking_that_the_fetch_was_successful)  
-    -- Server can also create, update, read, and delete data from databases  
+    -- Browser [receives response](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#checking_that_the_fetch_was_successful) and displays it to the user  
+    -- In addition to communicating with browsers, server can also create, update, read, and delete data from databases  
     -- Servers are written in many languages (two common ones are Node.js and Python)  
     -- In the ITC Fullstsack bootcamp, you build your own servers and communicate with third-party servers  
     -- In this program, you will interact with third-party servers when learning about asynchronous code  
@@ -60,9 +59,10 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- In the ITC Fullstsack bootcamp, you work with relational databases (SQL) and NoSQL (MongoDB)  
     -- In this program, you will not work with databases directly  
   - HTTP  
+    -- A protocol for sending and receiving messages over the web  
     -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp) distinguish between they type of request you are sending  
-    -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) help you know the status of a request  
-    -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp) is the format you use to send and receive data via HTTP  
+    -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) help you know the status of a response  
+    -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp) is the data format you use to send and receive data via HTTP  
     -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program
   
 ## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
@@ -105,6 +105,6 @@ As the program progresses, you will focus in on specific parts of these topics a
 
 Self-study:  
   
-Your assignment is to create a project folder in VS Code for your developer portfolio with an index.html file. After you create a project folder and set it up in VS Code, use [W3 Schools Examples](https://www.w3schools.com/html/html_examples.asp) to create your HTML file. Add a title and subtitle using the [headings tags](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_headings).  
+Your assignment is to create a project folder in VS Code for your developer portfolio. The project folder should have inside it an `index.html` file. After you create a project folder and set it up in VS Code, use [W3 Schools Examples](https://www.w3schools.com/html/html_examples.asp) to create your HTML file. Add a title and subtitle using the [headings tags](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_headings).  
 
 Also, take this [HTML quiz](https://www.w3schools.com/html/html_quiz.asp). We haven't covered most of the material, but that's okay. You can practice looking up answers by Google searchng and also learn by looking at the answers to the quiz when you're done.  
