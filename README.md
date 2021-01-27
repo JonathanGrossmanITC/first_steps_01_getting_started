@@ -23,18 +23,18 @@ The following outline contains basic information and links about how the web wor
 As the program progresses, you will focus in on specific parts of these topics and gain repetition with them.  
   
   - Browser  
-    -- Based on a domain name, displays information on a screen for easy viewing
-    -- Chrome, Firefox, and Safari are examples of browsers
+    -- Based on a domain name, displays information on a screen for easy viewing  
+    -- Chrome, Firefox, and Safari are examples of browsers  
     -- [Domain name](https://en.wikipedia.org/wiki/Domain_name) is alphanumeric and goes in browser's URL  
     -- [IP Address](https://en.wikipedia.org/wiki/IP_address) corresponding to domain name is retrieved by browser from DNS Server   
     -- [DNS Server](https://en.wikipedia.org/wiki/Domain_Name_System) links domain name to IP Address from browser  
-    -- Browser uses IP Address for domain to request files from hosting provider
+    -- Browser uses IP Address for domain to request files from hosting provider  
     -- [Hosting provider server](https://en.wikipedia.org/wiki/Web_hosting_service) provides browser with source code for IP Address  
     -- Source code instructs the browser on how to display the information     
-    -- Source code for browsers is typically HTML, CSS, JavaScript
-    -- Look at the inspector in your browser to explore behind the scenes
-    -- In the ITC Fullstsack bootcamp, you learn advanced HTML, CSS, and JavaScript 
-    -- In this program, you learn the basics of HTML, CSS, and JavaScript 
+    -- Source code for browsers is typically HTML, CSS, JavaScript  
+    -- Look at the inspector in your browser to explore behind the scenes  
+    -- In the ITC Fullstsack bootcamp, you learn advanced HTML, CSS, and JavaScript   
+    -- In this program, you learn the basics of HTML, CSS, and JavaScript   
   - Server  
     -- Software that runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests   
     -- [Express.js](https://expressjs.com/en/starter/hello-world.html) is an example of a JavaScript-based server framework  
@@ -50,7 +50,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- In the ITC Fullstsack bootcamp, you build your own servers and communicate with third-party servers  
     -- In this program, you will interact with third-party servers when learning about asynchronous code  
   - Database  
-    -- A database stores electronic information
+    -- A database stores electronic information  
     -- Databases live on a machine  
     -- Many [types of databases](https://www.guru99.com/introduction-to-database-sql.html) exist  
     -- Databases communicate with servers  
@@ -63,7 +63,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp) distinguish between they type of request you are sending  
     -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) help you know the status of a response  
     -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp) is the data format you use to send and receive data via HTTP  
-    -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program
+    -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program  
   
 ## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
   - Visual Studio Code (VS Code)  
@@ -77,7 +77,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- Open HTML file in browser  
   - VS Code Extensions  
     -- You can install extensions to enhance your coding experience  
-    -- One example: Prettier Code Formatter auto formats your code so that it's organized and easy to read 
+    -- One example: Prettier Code Formatter auto formats your code so that it's organized and easy to read   
     -- Install it  
     -- In VS Code settings, search for "format" and choose "format on save"  
   - Folder Structures and File Paths  
