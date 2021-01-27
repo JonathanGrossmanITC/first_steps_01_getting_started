@@ -8,17 +8,17 @@ In this lesson, you learn:
 - Hour 2: [Code Editors and Project Folder Structure ](#code-editors-and-project-folder-structure)   
 - Hour 3: [Intro to HTML](#intro-to-html)  
 
-The topics below outline what you learn in the live session. After the live session, use this material as a resource for guided self-learning. The outline and links within it serve as a roadmap for gaining repetition with the material that you learn in the live session. 
+The topics below outline what you learn in the live session. After the live session, you can use this material as a resource for guided self-learning. This document will serve you as a roadmap for gaining repetition with the material that you learn during the live session. 
 
 ## [Course Intro and How the Web Works](#course-intro-and-how-the-web-works)  
   
 ### Course Intro (see course info repo)
 
-In the Google Classroom, find the post containing the link to the course information. Please review the course information. It contains the schedule, syllabus, and other important details.
+In the Google Classroom, find the post containing the link to the course information. Please review the course information. It outlines the schedule, syllabus, and other necessary information.
   
 ### How the Web Works
 
-The following outline contains basic information and links about how the web works. Please do not feel pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Rather, it's to expose you to the topics on how the web works. 
+The following outline contains basic information and links about how the web works. Please do not feel any pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Instead, it's to expose you to the topics on how the web works. 
 
 As the program progresses, you will focus on specific parts of these topics and gain repetition with them.  
   
