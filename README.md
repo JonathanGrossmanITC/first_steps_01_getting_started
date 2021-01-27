@@ -43,7 +43,7 @@ As the program progresses, you will focus in on specific parts of these topics a
     -- A route is like a server address (is not the same as a domain name or url)  
     -- Browser [sends request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to server route (or one server sends request to another server)  
     -- Server route responds with a response  
-    -- A route usually has some functionality associated with it in addition to sending a response, like calling a database and processing data
+    -- A route usually has some functionality associated with it in addition to sending a response, like calling a database and processing data  
     -- Browser [receives response](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#checking_that_the_fetch_was_successful) and displays it to the user  
     -- In addition to communicating with browsers, server can also create, update, read, and delete data from databases  
     -- Servers are written in many languages (two common ones are Node.js and Python)  
