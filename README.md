@@ -1,6 +1,6 @@
 # Getting Started  
 
-Welcome to the first lesson! In this lesson, you focus on getting started as a developer. Being a developer requires more than just writing code. You need to learn how the web works, where to write your code, how to organize your files, where to find answers, and so much more.
+Welcome to the first lesson! In this first lesson, you focus on getting started as a developer. Being a developer requires more than just writing code. You need to learn how the web works, where to write your code, how to organize your files, where to find answers, and so much more.
 
 In this lesson, you learn:
 
