@@ -14,11 +14,11 @@ The topics below outline what you learn in the live session. After the live sess
   
 ### Course Intro (see course info repo)
 
-In the Google Classroom, find the post containing the link to the course information. Please review the course information. It outlines the schedule, syllabus, and other necessary information.
+In the Google Classroom, find the post containing the link to the course information. Please review the course information. It outlines the syllabus, and other necessary information.  
   
 ### How the Web Works
 
-The following outline contains basic information and links about how the web works. Please do not feel any pressure to understand all the information in this section. It's a lot of infomation! The purpose isn't to overwhelm you. Instead, it's to expose you to the topics on how the web works. 
+The following outline contains basic information and links about how the web works. Please do not feel any pressure to understand all the information in this section. It's a lot of information! The purpose isn't to overwhelm you. Instead, it's to expose you to the topics on how the web works. 
 
 As the program progresses, you will focus on specific parts of these topics and gain repetition with them.  
   
@@ -33,7 +33,7 @@ As the program progresses, you will focus on specific parts of these topics and 
     -- Source code instructs the browser on how to display the information     
     -- Source code for browsers is typically HTML, CSS, JavaScript  
     -- Look at the inspector in your browser to explore behind the scenes  
-    -- In the ITC Fullstack bootcamp, you learn advanced HTML, CSS, and JavaScript   
+    -- In the ITC Fullstack bootcamp and also the Frontend Course, you learn advanced HTML, CSS, and JavaScript   
     -- In this program, you learn the basics of HTML, CSS, and JavaScript   
   - Server  
     -- Software that runs on a [machine](https://media.geeksforgeeks.org/wp-content/uploads/20200429161002/server-image-1.png) and listens for incoming requests   
@@ -60,10 +60,10 @@ As the program progresses, you will focus on specific parts of these topics and 
     -- In this program, you will not work with databases directly  
   - HTTP  
     -- A protocol for sending and receiving messages over the web  
-    -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp) distinguish between they type of request you are sending  
+    -- [Request methods](https://www.w3schools.com/tags/ref_httpmethods.asp) distinguish between the type of request you are sending  
     -- [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) help you know the status of a response  
     -- [JSON](https://www.w3schools.com/whatis/whatis_json.asp) is the data format you use to send and receive data via HTTP  
-    -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program  
+    -- You will work with requests, responses, and JSON in this course and the ITC Fullstack Program and Frontend Course    
   
 ## [Code Editors and Project Folder Structure](#code-editors-and-project-folder-structure)  
   - Visual Studio Code (VS Code)  
